@@ -7,7 +7,9 @@ This repository contains the **frontend UI** of a hotel booking website. It is b
 ## Project Overview
 
 A clean and minimal hotel website with the following static pages:
-
+- 'booking-assets'images for hotel
+- 'css' 
+- 'inc' header fotter links
 - `index.php` – Home page
 - `about.php` – About the hotel
 - `contact.php` – Contact form (UI only)
@@ -27,7 +29,9 @@ A clean and minimal hotel website with the following static pages:
 ---
 
 ## 📁 Folder Structure
-
+├──booking-assets
+├──css
+├──inc
 ├── index.php # Homepage
 ├── about.php # About section
 ├── contact.php # Contact form (no backend)
